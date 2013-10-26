@@ -26,12 +26,12 @@
                     </a>
                     <a class="brand" href="#">@CafeUnoesc
                     </a>
-
+                    
                     <div class="nav-collapse">
                         <ul class="nav">
                             <li class="active"><a href="#" target="">Home</a></li>
                         </ul>
-
+                        Bem vindo a Cafeteira
                     </div>
                     <div class="btn-group pull-left">
                         <form  target="#" id="onoff" name="onoff" method="POST" action="AtivaDesativaServlet">
